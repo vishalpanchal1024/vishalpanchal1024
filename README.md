@@ -18,3 +18,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalpanchal1024&show_icons=true&locale=en&layout=compact" alt="vishalpanchal1024" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalpanchal1024&" alt="vishalpanchal1024" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vishalpanchal1024&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vishalpanchal1024&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpanchal1024&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
