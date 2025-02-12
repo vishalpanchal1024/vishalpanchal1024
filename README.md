@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Panchal</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-react-eosin-seven.vercel.app/](https://portfolio-react-vishalpanchal.vercel.app/)
+- 👨‍💻 All of my projects are available at My [PortFolio/](https://portfolio-react-vishalpanchal.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
